@@ -1,0 +1,9 @@
+{
+	"name": "Spotifyprojectazdb",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ab1ab447-2493-4617-8db7-e9460d61ce9d",
+		"tenantId": "71a17eee-2473-4ab7-80b7-77d631a69547"
+	}
+}
