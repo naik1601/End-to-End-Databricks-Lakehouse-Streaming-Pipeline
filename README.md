@@ -1,1 +1,1 @@
-# Spotifyproject-Azure-Databricks-MedallionArchitecture-unitycatalog
+# End-to-End-Azure-Databricks-MedallionArchitecture-unitycatalog
